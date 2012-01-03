@@ -1,0 +1,23 @@
+Inline::C - The Eminently Palatable Approach to Perl XS
+
+An introduction on using Inline::C (with a bit on Inline::CPP as well).
+Installation, example code, and more.
+
+Talk given at Thousand Oaks Perl Mongers, October 2011, and Los Angeles
+Perl Mongers November 2011.
+
+
+Manifest:
+
+README              - This file.
+
+inline_c_slides.odp - Libre Open Office Impress format slides.
+
+primes.cpp          - Standalone C++ program.  Benchmark code opens a
+                      pipe to the compiled executable to bench-test
+                      a system-call approach.
+
+primesbench.pl      - Perl benchmark script: Contains various
+                      implementations of the Sieve of Eratosthenes, in
+                      C, and pure-Perl.
+
