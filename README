@@ -21,3 +21,11 @@ primesbench.pl      - Perl benchmark script: Contains various
                       implementations of the Sieve of Eratosthenes, in
                       C, and pure-Perl.
 
+
+
+License and Copyright
+
+Copyright(c) 2011, 2012. David Oswald
+
+This is a free distribution; you can redistribute it and/or modify it
+under the same terms as Perl itself.

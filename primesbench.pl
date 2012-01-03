@@ -1,5 +1,10 @@
 #!perl
 
+# Copyright(c) 2011, 2012. David Oswald
+# This program is free software; you can redistribute it and/or modify
+# it under the same terms as Perl itself.
+
+
 # Benchmark implementations of the Sieve of Eratosthenes in Pure Perl,
 # Inline::C, Inline::CPP, straight XS, and through an open pipe to
 # a C++ compiled program.

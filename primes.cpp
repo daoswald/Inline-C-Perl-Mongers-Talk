@@ -1,4 +1,9 @@
 
+/* Copyright(c) 2011, 2012. David Oswald
+ * This program is free software; you may redistribute it and/or modify
+ * it under the same terms as Perl itself.
+ */
+
 
 #include <iostream>
 #include <cstdlib>
